@@ -5,10 +5,10 @@ Why Web Development ?
 
 In the past few years, the web has become a part of our everyday lives. We use websites for a lot of things from banking, shopping to reading daily news. Because of the high use of websites, the demand for web development is at its highest. What web developers can do is huge and this is why we have different sites despite there being so many. 
 
-Resources 
-[Codeschool](http://codeschool.com)
-[CodeAcademy](http://codeacademy.com)
-
+Learning Resources 
+* [Codeschool](http://codeschool.com)
+* [CodeAcademy](http://codeacademy.com)
+* [Udacity](http://udacity.com)
 
 ### Table of Content
 What do I learn?
