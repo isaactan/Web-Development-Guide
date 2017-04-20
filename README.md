@@ -10,18 +10,18 @@ Resources
 [CodeAcademy](http://codeacademy.com)
 
 
+### Table of Content
 What do I learn?
 learning path based on what most entry-level web developer positions asked for, which was:
 
 * JavaScript
 * HTML & CSS
-* CSS Preprocessors (Less & Sass)
-* Responsive Design
 * Jquery Basic
-* Design Patterns
+* Design Patterns / Product Design
 * Git
 * Rails
 * Data strucutre and Algorithm with Python
+* CSS Preprocessors (Less & Sass)
 
 ### JavaScript
 
@@ -33,6 +33,14 @@ Your assignment
 3. (optional) Read this book if you're really interested - [Eloquent Javascript](http://eloquentjavascript.net/) This is a        book about JavaScript, programming, and the wonders of the digital. 
 
 Congratulation! You completed your javascript foundation.
+
+### HTML/CSS
+
+After learning JavaScript, you can proceeded to learn the [fundamentals of HTML & CSS and web design through CodeSchool’s HTML & CSS learning path](https://www.codeschool.com/learn/html-css). The pacing is great, and their scope will give you  a stronger foundation to this.
+
+For an easy option you can try [Codecademy’s HTML & CSS course and still get similar results.] (https://www.codecademy.com/learn/web) 
+
+If you are up for a challenge, Udacity’s course [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) is far more complete, and slightly more challenging. Personally, this is my favourite among all.
 
 
 
