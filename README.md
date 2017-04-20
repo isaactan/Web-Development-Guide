@@ -27,3 +27,12 @@ learning path based on what most entry-level web developer positions asked for, 
 
 You can start learning JavaScript through CodeSchool (paid) and Codecademy (free). If you don’t know about these, they’re great websites that allow you to learn to code by coding inside the browser. Learning resources like this were the best when you are just getting started. Just be advised that this method of learning gets tiring quickly once you get into more advanced stuff, since their algorithms for checking whether you solved the code example correctly have some accuracy issues. Both of their introductory courses to JavaScript were outstanding and I highly recommend them.
 
+Your assignment
+1. Complete the basic JavaScript lesson on [Codeschool](http://codeschool.com)
+2. Complete the basic JavaScript lesson on [CodeAcademy](http://codeacademy.com)
+3. (optional) Read this book if you're really interested - [Eloquent Javascript](http://eloquentjavascript.net/) This is a        book about JavaScript, programming, and the wonders of the digital. 
+
+Congratulation! You completed your javascript foundation.
+
+
+
