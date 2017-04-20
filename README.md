@@ -5,6 +5,15 @@ Why Web Development ?
 
 In the past few years, the web has become a part of our everyday lives. We use websites for a lot of things from banking, shopping to reading daily news. Because of the high use of websites, the demand for web development is at its highest. What web developers can do is huge and this is why we have different sites despite there being so many. 
 
+Frontend/Backend ?
+Modern web applications consist of a backend and a frontend. Backend provides actual functionality and stores permanent data and frontend generates user interface based on user inputs and data provided by the backend.
+A web page or a mobile app are most common types of frontends. Frontend operations run in your device.
+Users don’t see the backend, their interaction is limited with the frontend. After the user input, frontend interacts with the backend in order to commit a certain task and receive the result.
+
+For example, you want to go through the followers of a specific user on Twitter. Twitter frontend provides a ‘FOLLOWERS’ link but does not actually have any idea who the followers are. Whenever a user clicks on the “FOLLOWERS” link, frontend interacts with the backend and sends back a request for the followers of a specific Twitter user. The backend runs a complex computing on the database and prepares a list of followers. Backend itself doesn’t show followers list, but it provides the data to the frontend. Then it’s the frontend’s job to show the follower list and stylize the view.
+A backend consists of at least 2 parts: a server application and a database. Backend should run on a server available for users all around the world as it feeds the application. Then application processes the data stored on the database and delivers it to the frontend.
+Normally you should hire separate developers for each side. There are some ‘super’ developers around who called ‘fullstack developer’ and can handle both sides.
+
 Learning Resources 
 * [Codeschool](http://codeschool.com)
 * [CodeAcademy](http://codeacademy.com)
